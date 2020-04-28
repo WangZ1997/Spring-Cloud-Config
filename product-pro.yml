@@ -19,6 +19,6 @@ eureka:
   instance:
     prefer-ip-address: true
     instance-id: ${spring.cloud.client.ip-address}:${server.port}
-name: geekzone-pro-test #生产环境
+name: geekzone-pro-test2 #生产环境
 
 

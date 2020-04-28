@@ -19,7 +19,7 @@ eureka:
   instance:
     prefer-ip-address: true
     instance-id: ${spring.cloud.client.ip-address}:${server.port}
-name: geekzone-pro-test2 #生产环境
+name: geekzone-pro-test3 #生产环境
 rabbitmq:
   host: 192.168.81.128
   port: 15672
